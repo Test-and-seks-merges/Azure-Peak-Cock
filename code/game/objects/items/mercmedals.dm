@@ -50,7 +50,7 @@
 	icon_state = "gryphon"
 	//dropshrink = 0.75
 	resistance_flags = FIRE_PROOF
-	slot_flags = ITEM_SLOT_NECK|ITEM_SLOT_HIP|ITEM_SLOT_WRISTS
+	slot_flags = ITEM_SLOT_NECK|ITEM_SLOT_HIP|ITEM_SLOT_WRISTS|ITEM_SLOT_RING
 	sellprice = 15
 
 /obj/item/clothing/neck/roguetown/luckcharm/mercmedal/grenzelhoft
